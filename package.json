@@ -1,6 +1,6 @@
 {
   "name": "rand-groups",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Make any number of randomised groups from an array.",
   "main": "index.js",
   "scripts": {

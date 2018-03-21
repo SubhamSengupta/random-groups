@@ -1,0 +1,22 @@
+{
+  "name": "random-groups",
+  "version": "1.0.0",
+  "description": "Make any number of randomised groups from an array.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SubhamSengupta/random-groups.git"
+  },
+  "keywords": [
+    "random"
+  ],
+  "author": "Subham Sengupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SubhamSengupta/random-groups/issues"
+  },
+  "homepage": "https://github.com/SubhamSengupta/random-groups#readme"
+}
